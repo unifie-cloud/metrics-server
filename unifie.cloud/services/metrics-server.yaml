@@ -1,1 +1,9 @@
 name: metrics-server
+rules: []
+UIshowRequestsConfig: false
+enabledByDefault: true
+ServiceSrcType: Yes-HelmChart
+helmChartName: metrics-server
+helmRepositoryName: metrics-server
+helmRepositoryChartName: metrics-server
+helmRepositoryURL: https://kubernetes-sigs.github.io/metrics-server/

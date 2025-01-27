@@ -1,0 +1,13 @@
+showVerionsTab: false
+showEnvVarsTab: false
+useRawYaml: false
+allowAutoApplyLimits: false
+name: metrics-server copy
+title: metrics-server
+logo: null
+tags:
+  - DevOps
+  - Monitoring
+description: metrics-server
+oneDeploymentPerCluster: false
+notAllowRemoveNamespace: false
